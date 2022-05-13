@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\bin\Debug\netcoreapp3.1\P128RestaurantManagement.exe
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\bin\Debug\netcoreapp3.1\P128RestaurantManagement.deps.json
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\bin\Debug\netcoreapp3.1\P128RestaurantManagement.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\bin\Debug\netcoreapp3.1\P128RestaurantManagement.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\bin\Debug\netcoreapp3.1\P128RestaurantManagement.dll
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\bin\Debug\netcoreapp3.1\P128RestaurantManagement.pdb
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\obj\Debug\netcoreapp3.1\P128RestaurantManagement.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\obj\Debug\netcoreapp3.1\P128RestaurantManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\obj\Debug\netcoreapp3.1\P128RestaurantManagement.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\obj\Debug\netcoreapp3.1\P128RestaurantManagement.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\obj\Debug\netcoreapp3.1\P128RestaurantManagement.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\obj\Debug\netcoreapp3.1\P128RestaurantManagement.dll
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\obj\Debug\netcoreapp3.1\P128RestaurantManagement.pdb
+C:\Users\hamid.mammadov\Desktop\P128RestaurantManagement\P128RestaurantManagement\obj\Debug\netcoreapp3.1\P128RestaurantManagement.genruntimeconfig.cache

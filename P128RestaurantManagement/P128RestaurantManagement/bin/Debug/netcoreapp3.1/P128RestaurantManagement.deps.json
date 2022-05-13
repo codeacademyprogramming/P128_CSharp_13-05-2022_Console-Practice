@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P128RestaurantManagement/1.0.0": {
+        "runtime": {
+          "P128RestaurantManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P128RestaurantManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
